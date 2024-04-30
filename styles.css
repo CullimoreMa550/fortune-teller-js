@@ -1,0 +1,13 @@
+/* Maddox C 
+30 April 2024
+JS Fortune Teller */
+
+body{
+    background-color:  rgb(106, 147, 167);
+}
+
+#myFortune{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: aquamarine;
+}
